@@ -1,1 +1,2 @@
-# codebuild
+1) Create a "Personal Access Token" on Github and give the "repo" and "admin:repo_hook" accesses.
+2) Create a Code build project and add Github as source with "Personal Access Token" as authentication method
